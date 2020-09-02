@@ -11,6 +11,8 @@ import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.io.PrintWriter;
  
+ /*dell*/
+
  /*
 cd E:\WorkSpace\project\code
 javac -encoding UTF-8 FileTransferServer.java
